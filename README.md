@@ -1,4 +1,4 @@
 # TeamGit
-Team's repository
+Welcome to our Team's repository
 
 1)Aliwka - Chief(Boss)
